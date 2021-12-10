@@ -1,5 +1,5 @@
 # Covid-19-Data-Visualization
-A visualization of COVID-19 data
+A visualization of COVID-19 cases distribution data in the US
 
 ## Data
 This datasets contain COVID-19 statistics from more than 3000 counties across all states in
