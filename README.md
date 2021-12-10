@@ -28,3 +28,25 @@ This visualization project is challenging because I don't know how I could desig
 For example, I don't know how to make it possible to click on a states, and the screen would show a bunch of
 stats for that states (example in the sketch).
 
+## Progress 1
+
+![image](https://github.com/MikePham05/Covid-19-Data-Visualization/blob/main/progress%201.PNG)
+
+At this point of the project, I have completed my 1st and 2nd mile stones, which precisely includes these tasks:
+  - Research d3 function to render geolocation
+  - Successfully render the US map
+  - Load data 
+  - Name display (Not abbreviation)
+
+## Progress 2
+
+![image](https://github.com/MikePham05/Covid-19-Data-Visualization/blob/main/progress%202.PNG)
+
+At this point of the project, I have updated interactions and visual cues:
+  - Names are now abbreviation
+  - The states now has color that reflects number of cases in each states in the US
+  - Color legend added
+  - The states when clicked on now display related stats, and the number is also reflected on the color legend down below
+  - Final polish (reformatting number, text size, color scheme)
+
+  
