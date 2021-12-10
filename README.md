@@ -1,3 +1,5 @@
+## Link to project video: https://www.youtube.com/watch?v=p8xSYnUI4MQ
+
 # Covid-19-Data-Visualization
 A visualization of COVID-19 cases distribution data in the US
 
